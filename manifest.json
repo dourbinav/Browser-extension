@@ -1,0 +1,10 @@
+{
+    "name":"News",
+    "version":"1.0.0",
+    "description":"Read News",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"index.html",
+        "default_tittle":"News"
+    }
+}
